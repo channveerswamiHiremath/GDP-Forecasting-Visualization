@@ -35,10 +35,10 @@ It uses World Bank open data, applies a **Log-Linear Regression model**, and pro
 ```
 GDP-Forecasting-Visualization/
 │── data/
-│   └── gdp_data.csv         # Fetched GDP dataset
-│── models/                  # Saved ML models
-│── DVP_Project.py           # Main GUI + visualization
-│── ML.py                    # Machine Learning module
+│   └── gdp_data.csv         
+│── models/                  #Auto generated   
+│── DVP_Project.py           
+│── ML.py                    
 │── README.md
 ```
 
