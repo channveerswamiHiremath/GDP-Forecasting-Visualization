@@ -73,8 +73,6 @@ GDP-Forecasting-Visualization/
 * Forecast zone shaded in gray.
 * Tooltips display GDP in trillions (`$23.9T` format).
 
-*(Insert screenshot or GIF here)*
-
 ---
 
 ## Future Improvements
